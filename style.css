@@ -1,0 +1,10 @@
+:root{
+    --body-color: #383e56;
+    --primary-color:#f69e7b;
+    --secondary-color: #d4b5b0;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
